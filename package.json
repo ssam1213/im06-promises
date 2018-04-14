@@ -19,6 +19,6 @@
     "eslint-config-codestates": "^1.0.0",
     "mocha": "^2.2.5",
     "nock": "^2.15.0",
-    "request": "^2.61.0"
+    "request": "^2.85.0"
   }
 }
